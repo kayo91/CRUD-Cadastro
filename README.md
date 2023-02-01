@@ -4,6 +4,8 @@
 
 - O frontend foi desenvolvido em Angular, consumindo dados de uma API desenvolvida em Node.
 
+# Telas do Projeto
+
 ![1](https://user-images.githubusercontent.com/81260083/216144639-08764e0f-f48b-4685-9849-e4c4be1a9d94.png)
 
 ![2](https://user-images.githubusercontent.com/81260083/216144656-11e301fa-a9ed-4705-bbd9-8322b576818a.png)
