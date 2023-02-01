@@ -10,13 +10,19 @@
 }
 
 .header .logo {
-    max-height: 32px;
+    max-height: 55px;
+    margin-left: 22px;
 }
 
 .header .title-group {
     padding-left: 25px;
+    margin-left: 57px;
 } 
 
 .header .title-group i {
     padding-right: 5px;
 } 
+
+.material-icons {
+    margin-left: 55px;
+}

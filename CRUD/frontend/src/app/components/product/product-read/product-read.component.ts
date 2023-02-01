@@ -20,7 +20,6 @@ export class ProductReadComponent implements OnInit {
   ngOnInit(): void { 
    this.productService.read().subscribe(products => {  // vai fazer uma requisição do tipo get no backend
      this.products = products
-     console.log(products)
    })
   }
 

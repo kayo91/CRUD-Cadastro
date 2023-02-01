@@ -31,7 +31,7 @@ export class ProductService {
   }
 
   read(): Observable<Product[]> { // responsavel por lê os produtos cadastrado no backend
-    return this.http.get<Product[]>(this.baseUrl) .pipe(
+    return this.http.get<Product[]>(this.baseUrl).pipe(
       map((obj) => obj),
       catchError(e => this.errorHandler(e))
     )
